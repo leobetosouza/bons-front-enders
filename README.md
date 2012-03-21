@@ -6,11 +6,12 @@
 
 ## O que empresas e profissionais devem saber sobre o desenvolviento front end?
 
-### Quais a habilidades comuns que espera-se que um dev front-end tenha?
+### Quais as habilidades comuns que espera-se que um dev front-end tenha?
 
 ### O que não é tão comum, o que são bons diferencias?
 
 ### Um dev front-end deve entender de design?
+Como o dev front-end é o elo entre o Designer e o dev back-end, é interessante que o dev front-end esteja familiarizado com softwares como Photoshop para que possa editar algo ( como criar um sprite por exemplo ), além da noção de espaçamentos e diagramação das coisas.
 
 ### Um dev front-end deve entender de programação no back-end?
 
