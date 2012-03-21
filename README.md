@@ -62,9 +62,9 @@ Definitivamente: **NÃO!** HTML, como o próprio nome diz, é ua linguagem de ma
 O meio mais correto de definir quanto cobrar por um freela é calculando-se um valor por hora.
 Para obter um valor/hora você pega o quanto é o seu salário (ou quanto deveria ser) divide por 22 (22 dias de trabalho no mês) e divide o resultado por 8 (8 horas de trabalho diário).
 
-Ex: um salário de R$ 4.000,00
-    
-4000 / 22 = 181,80 por dia
-181,80 / 8 = 22,70 por hora
+>Ex: um salário de R$ 4.000,00
+>    
+>4000 / 22 = 181,80 por dia
+>181,80 / 8 = 22,70 por hora
 
 Esta fórmula é útil tanto para front quanto para backend. Aliás qualquer profissional que trabalha por conta pode aplicar esta forma de cálculo.
