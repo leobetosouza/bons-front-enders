@@ -51,11 +51,15 @@ Definitivamente: **NÃO!** HTML, como o próprio nome diz, é ua linguagem de ma
 
 ## Como um profissional pode identificar uma boa empresa pra trabalhar?
 
-### Só o salário é o mais importante? Quais são os dierenciais de uma boa empresa?
+### Só o salário é o mais importante? Quais são os diferenciais de uma boa empresa?
+Não. Investimentos na qualificação do profissional, benefícios, oportunidade de crescimento.
+
 
 ### Como eu sei se o salário que estão me oferecendo é justo?
+Fazendo pesquisa informais com colegas de profissão e comunidades.
 
 ### Quanto eu devo pedir pelo meu trabalho na empresa? Qual deveria ser o meu salário?
+Procure saber ou tente estimar o valor de cada projeto para os quais você contribui ao longos dos meses. Pense o quanto você contribuiu, nas horas trabalhadas, na qualidade e dificuldade do seu serviço. Estime um valor do seu serviço para cada projeto e faça uma média. Retire pelo menos metade desse valor para a empresa, que precisa lucrar em cima de você e cobrir custos. Terá um valor para uma negociação.
 
 
 ### Quando faço trabalhos de freelancer, quanto eu devo cobrar?
