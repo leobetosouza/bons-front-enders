@@ -8,7 +8,7 @@
 
 ### Quais a habilidades comuns que espera-se que um dev front-end tenha?
 
-### O que não é tão comum, as são bons diferencias?
+### O que não é tão comum, o que são bons diferencias?
 
 ### Um dev front-end deve entender de design?
 
