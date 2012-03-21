@@ -9,10 +9,13 @@
 ### Quais a habilidades comuns que espera-se que um dev front-end tenha?
 
 ### O que não é tão comum, o que são bons diferencias?
+Participações em projetos opensource;
 
 ### Um dev front-end deve entender de design?
+Precisa entender de usabilidade e UX ao menos.
 
 ### Um dev front-end deve entender de programação no back-end?
+Se entender facilita mas não acredito que seja um pré-requisito conheço bons developers frontend que não entendem nada de server-side.
 
 ### HTML é linguagem de programação? Existe um programador HTML?
 
@@ -28,7 +31,7 @@ Definitivamente: *NÃO!*
 
 ## Como um profissional pode identificar uma boa empresa pra trabalhar?
 
-### Só o salário é o mais importante? Quais são os dierenciais de uma boa empresa?
+### Só o salário é o mais importante? Quais são os diferenciais de uma boa empresa?
 
 ### Como eu sei se o salário que estão me oferecendo é justo?
 
