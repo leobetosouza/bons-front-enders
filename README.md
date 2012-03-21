@@ -32,4 +32,4 @@ Definitivamente: *NÃO!*
 
 ### Como eu sei se o salário que estão me oferecendo é justo?
 
-### quanto eu devo pedir pelo meu trabalho?
+### Quanto eu devo pedir pelo meu trabalho?
