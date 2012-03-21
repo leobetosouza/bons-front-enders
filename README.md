@@ -9,7 +9,8 @@
 * Depois, estando logado no GitHub, você vai clicar no arquivo [README.md](https://github.com/leobetosouza/bons-front-enders/blob/master/README.md) na lista aqui em cima;
 * Vai clicar no botão "Fork and edit this file" e edite o arquivo via web (ele usa a sintax [Markdown](http://daringfireball.net/projects/markdown/syntax), que é bem simples.);
 * Depois que acabar, escreva uma mensagem na caixa "Commit message" explicando em poucas palavras o que você modificou, e clique no botão "Propose file changes";
-* Depois você vai poder dar um título e escrever um texto sobre sua proposta de alteração. E finalmente clicar no botão verde escrito "Send pull request". Pronto! Agora só esperar o leobetosouza ler e aprovar suas mudanças.
+* Depois você pode dar um título e escrever um texto sobre sua proposta de alteração. E finalmente clique no botão verde escrito "Send pull request";
+* Pronto! Agora só esperar o leobetosouza ler e aprovar suas mudanças.
 
 
 ## O que empresas e profissionais devem saber sobre o desenvolvimento front-end?
