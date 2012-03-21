@@ -16,7 +16,7 @@
 ## O que empresas e profissionais devem saber sobre o desenvolvimento front-end?
 Desenvolvimento front-end como o próprio nome diz trabalha no front, isto é na camada cliente. De um modo mais simplista, ele implementa/faz aquilo que usuário ver quando acessa uma página na internet. HTML, CSS, JavaScript rodam no cliente (browser/navegador no computador do usuário), não no servidor (que é o computador remoto onde o site está hospedado e é onde acontece grande parte das coisas que o usuário não ver quando acessa uma página).
 
-Um desenvolvedor front-end não precisa saber programar em PHP, .NET ou outra linguagem server-side pois estas rodam no servidor. Mas é muito importante que ele saiba muito e HTML e CSS e pelo menos um pouco de JavaScript.
+Um desenvolvedor front-end não precisa saber programar em PHP, .NET ou outra linguagem server-side pois estas rodam no servidor. Mas é muito importante que ele saiba muito bem HTML e CSS. Um iniciante deve saber pelo menos um pouco de JavaScript e suas bibliotécas (principalmente das de manipulação do DOM). Um dev front-end completo deve dominar muito bem JavaScript.
 
 ### Quais as habilidades comuns que espera-se que um dev front-end tenha?
 Espera-se que um dev front-end saiba muito bem HTML e CSS. Entenda muito bem de web semântica e tenha noções  de SEO (Search Engine Optimization).
