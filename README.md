@@ -3,6 +3,14 @@
 
 *Este guia não pretende ser um tomo imutável nem a fonte da verdade absoluta sobre o assunto. Só queremos ajudar o mercado brasileiro de desenvolvimento web a crescer e se tornar melhor para empresas e profissionais. Se você tem alguma sugestão ou modificação não se furte em forkar o projeto e criar um pull request. ;)*
 
+**Como eu posso contribuir?**
+
+* Primeiramente você precisa ter uma conta no [GitHub](http://github.com). É de graça!;
+* Depois, estando logado no GitHub, você vai clicar no arquivo README.md na lista aqui em cima;
+* Vai clicar no botão "Fork and edit this file" e ditar o arquivo via web (ele usa a sintax [Markdown](http://daringfireball.net/projects/markdown/syntax), que é bem simples.);
+* Depois que acabar, escreva uma mensagem na caixa "Commit message" explicando em poucas palavras o que você modificou, e clique no botão "Propose file changes";
+* Depois você vai poder dar um título e escrever um texto sobre sua proposta de alteração. E finalmente clicar no botão verde escrito "Send pull request". Pronto! Agora só esperar o leobetosouza ler e aprovar suas mudanças.
+
 
 ## O que empresas e profissionais devem saber sobre o desenvolvimento front-end?
 Desenvolvimento front-end como o próprio nome diz trabalha no front, isto é na camada cliente. De um modo mais simplista, ele implementa/faz aquilo que usuário ver quando acessa uma página na internet. HTML, CSS, JavaScript rodam no cliente (browser/navegador no computador do usuário), não no servidor (que é o computador remoto onde o site está hospedado e é onde acontece grande parte das coisas que o usuário não ver quando acessa uma página).
