@@ -23,7 +23,7 @@ Espera-se que um dev front-end saiba muito bem HTML e CSS. Entenda muito bem de 
 
 É esperado que dado um layout a ele (atualmente e usualmente como um arquivo do Adobe Photoshop ou Fireworks, embora existam outros softwares também), ele consiga codifica-lo como uma página web, seguindo as boas praticas de codificação tanto de HTML quanto de CSS.
 
-É esperado também que ele saiba pelo menos um pouco de JavaScript.
+É esperado também que ele saiba JavaScript e suas particularidades e o uso de ao menos uma de suas bíbliotecas de manipulação do DOM (a mais popular hoje em dia chama-se [jQuery](http://jquery.com/)).
 
 ### O que não é tão comum? Quais são bons diferencias?
 
@@ -35,7 +35,9 @@ Muitas vezes ele é o responsável pela integração do front-end (HTML) com o b
 
 ### HTML é linguagem de programação? Existe um programador HTML?
 
-Definitivamente: **NÃO!** HTML, como o próprio nome diz, é ua linguagem de marcação de texto. Linguagens de programação pra web existem várias, a principal pra um dev front-end é JavaScript.
+Definitivamente: **NÃO!**
+
+HTML, como o próprio nome diz, é ua linguagem de marcação de texto. Linguagens de programação pra web existem várias, a principal pra um dev front-end é JavaScript.
 
 ## Como uma empresa pode identificar um bom profissional de front-end?
 
