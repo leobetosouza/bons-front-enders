@@ -5,6 +5,8 @@
 
 
 ## O que empresas e profissionais devem saber sobre o desenvolvimento front-end?
+Desenvolvimento front-end como o próprio nome diz trabalha no front, isto é na camada cliente. HTML, CSS, javascript rodam no browser, não no servidor.
+Um desenvolvedor front-end não precisa saber programar em PHP, .NET ou outra linguagem server-side pois estas rodam no servidor.
 
 ### Quais as habilidades comuns que espera-se que um dev front-end tenha?
 
@@ -14,6 +16,7 @@
 Como o dev front-end é o elo entre o designer e o dev back-end, é interessante que o dev front-end esteja familiarizado com softwares como Photoshop para que possa editar algo (como criar um sprite por exemplo), além da noção de espaçamentos e diagramação das coisas.
 
 ### Um dev front-end deve entender de programação no back-end?
+Muitas vezes ele é o responsável pela integração do front-end (html) com o backend (php) então noções simples são desejáveis. Saber o que é um array, saber fazer um for, um if é necessário. A maioria sabe disso pois no javascript (linguagem client-side) existem estes comandos.
 
 ### HTML é linguagem de programação? Existe um programador HTML?
 
@@ -38,3 +41,10 @@ Definitivamente: **NÃO!**
 ### Como eu sei se o salário que estão me oferecendo é justo?
 
 ### Quanto eu devo pedir pelo meu trabalho?
+O meio mais correto de definir quanto cobrar por um trabalho é calculando-se um valor por hora.
+Para obter um valor/hora você pega o quanto é o seu salário (ou quanto deveria ser) divide por 22 (22 dias de trabalho no mês) e divide o resultado por 8 (8 horas de trabalho diário).
+Ex: um salário de R$ 4.000,00
+    4000 / 22 = 181,80 por dia
+    181,80 / 8 = 22,70 por hora
+
+Esta fórmula é útil tanto para front quanto para backend. Aliás qualquer profissional que trabalha por conta pode aplicar esta forma de cálculo.
