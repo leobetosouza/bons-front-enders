@@ -5,22 +5,28 @@
 
 
 ## O que empresas e profissionais devem saber sobre o desenvolvimento front-end?
-Desenvolvimento front-end como o próprio nome diz trabalha no front, isto é na camada cliente. HTML, CSS, javascript rodam no browser, não no servidor.
-Um desenvolvedor front-end não precisa saber programar em PHP, .NET ou outra linguagem server-side pois estas rodam no servidor.
+Desenvolvimento front-end como o próprio nome diz trabalha no front, isto é na camada cliente. De um modo mais simplista, ele implementa/faz aquilo que usuário ver quando acessa uma página na internet. HTML, CSS, JavaScript rodam no cliente (browser/navegador no computador do usuário), não no servidor (que é o computador remoto onde o site está hospedado e é onde acontece grande parte das coisas que o usuário não ver quando acessa uma página).
+
+Um desenvolvedor front-end não precisa saber programar em PHP, .NET ou outra linguagem server-side pois estas rodam no servidor. Mas é muito importante que ele saiba muito e HTML e CSS e pelo menos um pouco de JavaScript.
 
 ### Quais as habilidades comuns que espera-se que um dev front-end tenha?
+Espera-se que um dev front-end saiba muito bem HTML e CSS. Entenda muito bem de web semântica e tenha noções  de SEO (Search Engine Optimization).
+
+É esperado que dado um layout a ele (atualmente e usualmente como um arquivo do Adobe Photoshop ou Fireworks, embora existam outros softwares também), ele consiga codifica-lo como uma página web, seguindo as boas praticas de codificação tanto de HTML quanto de CSS.
+
+É esperado também que ele saiba pelo menos um pouco de JavaScript.
 
 ### O que não é tão comum? Quais são bons diferencias?
 
 ### Um dev front-end deve entender de design?
-Como o dev front-end é o elo entre o designer e o dev back-end, é interessante que o dev front-end esteja familiarizado com softwares como Photoshop para que possa editar algo (como criar um sprite por exemplo), além da noção de espaçamentos e diagramação das coisas.
+Como o dev front-end é o elo entre o designer e o dev back-end, é interessante que ele esteja familiarizado com softwares como Photoshop para que possa editar algo (como criar um sprite por exemplo), além da noção de espaçamentos e diagramação das coisas.
 
 ### Um dev front-end deve entender de programação no back-end?
-Muitas vezes ele é o responsável pela integração do front-end (html) com o backend (php) então noções simples são desejáveis. Saber o que é um array, saber fazer um for, um if é necessário. A maioria sabe disso pois no javascript (linguagem client-side) existem estes comandos.
+Muitas vezes ele é o responsável pela integração do front-end (HTML) com o back-end (PHP, ASP, JSP ou qualquer linguagem que esteja sendo usada no servidor) então noções simples são desejáveis. Saber o que é um *array*, saber fazer um *for*, um *if* é necessário. A maioria sabe disso pois no JavaScript (linguagem de programação usada no front-end) existem estes comandos.
 
 ### HTML é linguagem de programação? Existe um programador HTML?
 
-Definitivamente: **NÃO!**
+Definitivamente: **NÃO!** HTML, como o próprio nome diz, é ua linguagem de marcação de texto. Linguagens de programação pra web existem várias, a principal pra um dev front-end é JavaScript.
 
 ## Como uma empresa pode identificar um bom profissional de front-end?
 
