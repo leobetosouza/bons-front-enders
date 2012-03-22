@@ -1,7 +1,7 @@
 # Pequeno Guia para Empresas que Procuram Bons Desenvolvedores Front-end e Desenvolvedores Front-end que Procuram Boas Empresas
 
 
-*Este guia não pretende ser um tomo imutável nem a fonte da verdade absoluta sobre o assunto. Só queremos ajudar o mercado brasileiro de desenvolvimento web a crescer e se tornar melhor para empresas e profissionais. Se você tem alguma sugestão ou modificação não se furte em forçar o projeto e criar um pull request. ;)*
+*Este guia não pretende ser um tomo imutável nem a fonte da verdade absoluta sobre o assunto. Só queremos ajudar o mercado brasileiro de desenvolvimento web a crescer e se tornar melhor para empresas e profissionais. Se você tem alguma sugestão ou modificação não se furte em forkar o projeto e criar um pull request. ;)*
 
 **Como eu posso contribuir?**
 
