@@ -15,7 +15,8 @@ Participações em projetos opensource;
 Precisa entender de usabilidade e UX ao menos.
 
 ### Um dev front-end deve entender de programação no back-end?
-Se entender facilita mas não acredito que seja um pré-requisito conheço bons developers frontend que não entendem nada de server-side.
+Um desenvolvedor front-end não precisa necessariamente entender de back-end, existem bons desenvolvedores front-end que não entendem nada de back-end  e vice-versa.
+Mas é claro que ter conhecimentos de backend pode ao menos diminuir quantidade de código escrito no frontend, evitando repetições de código.
 
 ### HTML é linguagem de programação? Existe um programador HTML?
 
