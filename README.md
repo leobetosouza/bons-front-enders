@@ -12,7 +12,7 @@
 Participações em projetos opensource;
 
 ### Um dev front-end deve entender de design?
-Precisa entender de usabilidade e UX ao menos.
+Entender de design propriamente dito photoshop etc, não acredito que seja necessário, mas concerteza entender de Usabilidade e Experiência do usuário são importantes e podem fazer a diferença entre um bom front-ender e um front-ender espetacular.
 
 ### Um dev front-end deve entender de programação no back-end?
 Um desenvolvedor front-end não precisa necessariamente entender de back-end, existem bons desenvolvedores front-end que não entendem nada de back-end  e vice-versa.
