@@ -56,6 +56,15 @@ HTML (HyperText Markup Language), como o próprio nome diz, é uma linguagem de 
 ### Só o salário é o mais importante? Quais são os diferenciais de uma boa empresa?
 Não. Investimentos na qualificação do profissional, benefícios, oportunidade de crescimento, entre outros fatores profissionais e pessoais.
 
+Antes de decidir trabalhar em uma nova empresa, tenha em mente que o salário não deve ter fator determinante e inclusive é interessante observar se ele não está incompatível com seus conhecimentos atuais.
+
+Isso porque ao ganhar um salário muito maior do que o seu nível oferece, pode acarretar em uma série de fatores negativos, como: pressão acima da média, estagnação profissional, queda brusca de padrão de vida caso saia da empresa (talvez não consiga o mesmo salário em outra).
+
+Portanto, faça sempre um equilíbrio entre salário e oportunidade de aprendizado. Conhecimento é o principal meio que fará você ter novas oportunidades. Não escolha trabalhar em uma empresa apenas pelo salário. Analise qual será sua função, se oferece um ambiente agradável, o que é necessário saber para desenvolver seu trabalho e quais novos conhecimentos e desafios você terá.
+
+Mais vale ganhar x aprendendo muito e crescendo no mercado, do que ganhar 2x fazendo um trabalho maçante, que não será útil em nenhuma outra empresa e nem te faz desenvolver como profissional Front End.
+
+Lembre-se, não tenha pressa, dinheiro  será sempre uma consequência. 
 
 ### Como eu sei se o salário que estão me oferecendo é justo?
 Fazendo pesquisas informais com colegas de profissão e em comunidades.
