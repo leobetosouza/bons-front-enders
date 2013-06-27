@@ -40,17 +40,23 @@ Definitivamente: **NÃO!**
 HTML (HyperText Markup Language), como o próprio nome diz, é uma linguagem de marcação de texto. Existem várias linguagens de programação para web. A principal pra um desenvolvedor front-end é JavaScript.
 
 ## Como uma empresa pode identificar um bom profissional de front-end?
+Ver se essa pessoa está atualizada com as mudanças que ocorrem a todo momento sobre HTML,CSS e JS.O programador tem conta
+no github, se tem conta conhece o funcionamento da tool.Está participando de projetos Open sources, essa parte de projetos
+não importa o nível que o projeto é, mas se está participando ativamente já demostra que a pessoa está evoluíndo.
+Faça perguntas do tipo você viu o devcast que o Leo Beto Souza participou falaando de DOM, conhece Paul Irish,Zeno Rocha 
+e Bernard de Luna.
 
 ### Junior? Pleno? Sênior? O que é isso? O que eu quero?
 
 ### Quais habilidades eu preciso procurar em um desenvolvedor front-end para a minha empresa?
+O que ele domina HTML,CSS ou JS.Trabalha com framework, se sim quais ou se não porque não??
 
 #### O que um desenvolvedor front-end "junior" deve saber?
-
+O básico de HTML,CSS e JS, para depois começar a se aventuar em todas mudanças que estão acontencendo.
 #### O que um desenvolvedor front-end "sênior" pode saber? Ele tem que saber tudo?
-
+Tudo de html,css e js.As evoluções das linguagens como HTML5,CSS3 e JS.
 ### Qual é a média salarial de um desenvolvedor front-end?
-
+Fica na faixa dos R$1.250,00 à R$2.500,00 inicialmente.
 ## Como um profissional pode identificar uma boa empresa para trabalhar?
 
 ### Só o salário é o mais importante? Quais são os diferenciais de uma boa empresa?
