@@ -26,6 +26,14 @@ Espera-se que um desenvolvedor front-end saiba muito bem HTML e CSS. Entenda mui
 É esperado também que ele saiba JavaScript e suas particularidades e o uso de ao menos uma de suas bibliotecas de manipulação do DOM (a mais popular hoje é o [jQuery] (http://jquery.com/)).
 
 ### O que não é tão comum? Quais são bons diferenciais?
+Não é tão comum profissionais com desejo contínuo de aprender; hoje observamos que muitos estacionam quando atingem determinado nivel de conhecimento, como que ficando parados numa zona de conforto.
+
+Então, um diferencial é o desejo de aprender novas linguagens, ferramentas e metodologias, refinando e melhorando a qualidade dos nossos serviços.
+
+Outro diferencial é agirmos em prol da comunidade: trabalhando na criação ou aperfeiçoando de soluções, plugins e frameworks que otimizem nossas tarefas. E também compartilhando conhecimentos através de artigos ou palestras. 
+
+Terceiro diferencial é aproveitarmos oportunidades como eventos para mantermos networking com outros profissioanais. 
+Termos um bom círculo de networking resulta em boas parcerias, animados papos de bar e mais felicidade em nosso dia a dia, afinal, sozinhos não somos nada. 
 
 ### Um desenvolvedor front-end deve entender de design?
 Como o desenvolvedor front-end é o elo entre o designer e o desenvolvedor back-end, é interessante que ele esteja familiarizado com softwares como Photoshop para que possa editar algo (como criar um sprite, por exemplo), além da noção de espaçamentos e diagramação dos elementos.
