@@ -52,6 +52,17 @@ Basicamente através de testes. Toda grande empresa(em termos de tecnologia) atu
 #### O que um desenvolvedor front-end "sênior" pode saber? Ele tem que saber tudo?
 
 ### Qual é a média salarial de um desenvolvedor front-end?
+Essa média varia muito e a todo momento. Depende de mercado, nível do desenvolvedor, segmento da empresa, etc. Basicamente encontra-se vagas de R$ 1.000,00 à R$ 12.000,00, ou seja, a média é bem relativa nesse sentido.
+
+Uma forma bacana de encontrar mais informações é procurar nos players que ofertam/acompanham empregos no mercado.
+
+Seguem alguns links:
+
+[Vagas Front-end na Catho](http://www.catho.com.br/vagas/programador-front-end/)
+
+[Vagas Front-end no Love Mondays](https://www.lovemondays.com.br/salarios/cargo/salario-desenvolvedor-front-end)
+
+[Vagas Front-end no Trampos](http://trampos.co/oportunidades?tr=desenvolvedor%20front-end)
 
 ## Como um profissional pode identificar uma boa empresa para trabalhar?
 
