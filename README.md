@@ -25,7 +25,8 @@ Espera-se que um desenvolvedor front-end saiba muito bem HTML e CSS. Entenda mui
 
 É esperado também que ele saiba JavaScript e suas particularidades e o uso de ao menos uma de suas bibliotecas de manipulação do DOM (a mais popular hoje é o [jQuery] (http://jquery.com/)).
 
-### O que não é tão comum? Quais são bons diferencias?
+### O que não é tão comum? Quais são bons diferenciais?
+
 
 ### Um desenvolvedor front-end deve entender de design?
 Como o desenvolvedor front-end é o elo entre o designer e o desenvolvedor back-end, é interessante que ele esteja familiarizado com softwares como Photoshop para que possa editar algo (como criar um sprite, por exemplo), além da noção de espaçamentos e diagramação dos elementos.
@@ -40,6 +41,7 @@ Definitivamente: **NÃO!**
 HTML (HyperText Markup Language), como o próprio nome diz, é uma linguagem de marcação de texto. Existem várias linguagens de programação para web. A principal pra um desenvolvedor front-end é JavaScript.
 
 ## Como uma empresa pode identificar um bom profissional de front-end?
+Basicamente através de testes. Toda grande empresa(em termos de tecnologia) atualmente tem utilizado de testes para "medir" o conhecimento dos candidatos. Geralmente passam o teste com prazo para ser finalizado. Algumas aplicam mais de um, inclusive. Esses testes são aplicados tanto remotamente quanto presencial(esse um pouco menos utilizado). Esse processo ajuda as empresas a filtrar os candidatos pelos conhecimentos que foram anunciados nas vagas.
 
 ### Junior? Pleno? Sênior? O que é isso? O que eu quero?
 
@@ -64,7 +66,7 @@ Portanto, faça sempre um equilíbrio entre salário e oportunidade de aprendiza
 
 Mais vale ganhar x aprendendo muito e crescendo no mercado, do que ganhar 2x fazendo um trabalho maçante, que não será útil em nenhuma outra empresa e nem te faz desenvolver como profissional Front End.
 
-Lembre-se, não tenha pressa, dinheiro  será sempre uma consequência. 
+Lembre-se, não tenha pressa, dinheiro  será sempre uma consequência.
 
 ### Como eu sei se o salário que estão me oferecendo é justo?
 Fazendo pesquisas informais com colegas de profissão e em comunidades.
