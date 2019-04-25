@@ -23,7 +23,7 @@ Espera-se que um desenvolvedor front-end saiba muito bem HTML e CSS. Entenda mui
 
 É esperado que dado um layout a ele (um arquivo do Adobe Photoshop ou Fireworks, ou outro software similar), ele consiga codifica-lo como uma página web, seguindo as boas práticas de codificação, tanto de HTML quanto de CSS.
 
-É esperado também que ele saiba JavaScript e suas particularidades e o uso de ao menos uma de suas bibliotecas de manipulação do DOM (a mais popular hoje é o [jQuery] (http://jquery.com/)).
+É esperado também que ele saiba JavaScript e suas particularidades e o uso de ao menos uma de suas bibliotecas de manipulação do DOM (a mais popular hoje é o [jQuery](http://jquery.com/)).
 
 ### O que não é tão comum? Quais são bons diferenciais?
 
